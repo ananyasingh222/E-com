@@ -7,7 +7,7 @@ function Contact(){
 
 
     return(
-        <h1>This is Contact component</h1>
+        <h1>Please contact in case of any issues</h1>
     )
 }
 

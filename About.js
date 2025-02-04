@@ -6,7 +6,7 @@ function About(){
 
 
     return(
-        <h1>This is about component</h1>
+        <h1>E-COM Website</h1>
     )
 }
 
